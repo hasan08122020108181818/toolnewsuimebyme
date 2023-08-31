@@ -10,8 +10,8 @@ apt-get install python2
 
 apt-get install git
 
-git clone https://github.com/hasan08122020108181818/nukeddos
+git clone https://github.com/hasan08122020108181818/toolnewsuimebyme
 
-cd ddos-ronaldo
+cd toolnewsuimebyme
 
-python2 ddos-Sui.py
+python2 ddos-Me-sui
